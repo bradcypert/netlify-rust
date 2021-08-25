@@ -1,7 +1,13 @@
 [package]
-name = "openapi"
-version = "1.0.0"
-authors = ["OpenAPI Generator team and contributors"]
+name = "netlify-rust"
+version = "0.1.0"
+authors = ["Brad Cypert <brad.cypert@gmail.com>"]
+description = "JSON Web Token library"
+homepage = "http://github.com/bradcypert/netlify-rust"
+repository = "http://github.com/bradcypert/netlify-rust"
+readme = "README.md"
+keywords = ["netlify client", "netlify"]
+license = "Unlicense"
 edition = "2018"
 
 [dependencies]
