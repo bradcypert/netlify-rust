@@ -1,8 +1,8 @@
 [package]
 name = "netlify-rust"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Brad Cypert <brad.cypert@gmail.com>"]
-description = "JSON Web Token library"
+description = "An HTTP client for Netlify"
 homepage = "http://github.com/bradcypert/netlify-rust"
 repository = "http://github.com/bradcypert/netlify-rust"
 readme = "README.md"
