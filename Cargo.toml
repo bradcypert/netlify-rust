@@ -6,7 +6,7 @@ description = "JSON Web Token library"
 homepage = "http://github.com/bradcypert/netlify-rust"
 repository = "http://github.com/bradcypert/netlify-rust"
 readme = "README.md"
-keywords = ["netlify client", "netlify"]
+keywords = ["webclient", "netlify"]
 license = "Unlicense"
 edition = "2018"
 
